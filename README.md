@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="EnergyBrainer Logo" width="400" src="" />
+  <img alt="EnergyBrainer Logo" width="400" src="https://github.com/DoggoDev-0/energybrain/blob/main/assets/images/logo.png" />
 </p>
 
 # EnergyBrainer | Optimise your energy consume ☼  
