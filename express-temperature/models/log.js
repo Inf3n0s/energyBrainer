@@ -8,6 +8,12 @@ const logSchema = new Schema({
     date: {
         type: Date,
         index: true
+    },
+    // use room as index
+    room: {
+        type: String,
+        index: true,
+        default: ''
     }
 });
 

@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "energybrainer",
+    "slug": "energybrainer",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#A1F6A0"
+    },
+    "android": {
+      "package": "com.bogdanws.energybrainer",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f4a2c1dc-91fe-49bd-8ab4-ba6fa8e551c6"
+      }
+    },
+    "owner": "bogdanws"
+  }
+}
