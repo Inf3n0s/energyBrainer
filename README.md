@@ -10,8 +10,10 @@ This project involves setting up an ESP8266 board with a DHT11 sensor to report 
 
 ![Electrical Scheme using ESP8266 and DHT11 sensor](/assets/images/electrical-scheme.png "Electrical Scheme ")
 
+
 ### Android App
 ``` https://expo.dev/artifacts/eas/oDfnAHLe9LbCFfV68hZwbQ.apk ```
+![Mobile app](https://i.imgur.io/I5ij2ip_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
 ### Hardware Required
 1. ESP8266 board
