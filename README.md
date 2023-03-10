@@ -8,8 +8,10 @@
 ### Introduction
 This project involves setting up an ESP8266 board with a DHT11 sensor to report temperature and humidity data to an Express server. The data can be accessed through a mobile app called EnergyBrainer.
 
-
 ![Electrical Scheme using ESP8266 and DHT11 sensor](/assets/images/electrical-scheme.png "Electrical Scheme ")
+
+### Android App
+``` https://expo.dev/artifacts/eas/oDfnAHLe9LbCFfV68hZwbQ.apk ```
 
 ### Hardware Required
 1. ESP8266 board
